@@ -128,7 +128,7 @@
 
 ### 펫
 
-![pet](/readmeAsset/pet%20(1).gif)
+![pet](/readmeAsset/pet_interaction.gif)
 
 - 기본적으로 자동으로 움직이며 다양한 동작들을 취합니다.
 - 펫 클릭시 펫이 다양한 말을 걸면서 표정을 짓습니다.
