@@ -1,6 +1,3 @@
-# SSAFY 7기 자율 프로젝트 A101
----
-
 # 카룸(Carum)
 
 ![Group_89__1_](/readmeAsset/carum_rogo.png)
